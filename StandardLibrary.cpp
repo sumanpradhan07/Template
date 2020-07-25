@@ -22,6 +22,8 @@ int main(){
 #define F first
 #define S second
 //=========================================================
+ const unsigned int M = 1000000007;
+//=========================================================
 
 typedef pair<int, int>	pii;
 typedef pair<ll, ll>	pl;
