@@ -7,7 +7,13 @@ int main(){
 	return 0;
 }
 //======================================
-
+#include<stdio.h>
+#include<iostream>
+#include<vector>
+#include<algorithm>
+#include<string>
+#include<string.h>
+//======================================
 #define ll long long
 #define for(i,n) for(i=0;i<n;i++)
 #define si(x)	scanf("%d",&x)
