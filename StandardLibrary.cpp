@@ -27,6 +27,7 @@ int main(){
 #define mp make_pair
 #define F first
 #define S second
+#define ROUNDF(f, c) (((float)((int)((f) * (c))) / (c)))
 //=========================================================
  const unsigned int M = 1000000007;
 //=========================================================
