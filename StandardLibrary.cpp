@@ -53,10 +53,15 @@ int main(){
 using namespace std;
 
 int main(){
-	int test;
+	int test,n,val;
 	cin>>test;
 	while(test--){
-		
+		cin>>n;
+		vector<int>arr;
+		for(int i=0;i<n;i++){
+			cin>>val;
+			arr.push_back(val);
+		}
 	}
 	return 0;
 }
